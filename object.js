@@ -53,3 +53,5 @@ console.log(sir['details']['father']['name']);
 // console.log(sir.1); i have recved error
 console.log(sir[1]);
 console.log(sir[true]);
+
+
